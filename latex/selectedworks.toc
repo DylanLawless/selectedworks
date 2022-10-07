@@ -1,0 +1,6 @@
+\contentsline {chapter}{Max Ehrmann}{4}{chapter*.2}
+\contentsline {section}{Desiderata.}{4}{chapter*.2}
+\contentsline {chapter}{Dylan Thomas}{6}{chapter*.3}
+\contentsline {section}{Do not go gentle into that good night.}{6}{chapter*.3}
+\contentsline {chapter}{W. B. Yeats}{7}{chapter*.4}
+\contentsline {section}{Sailing to Byzantium}{7}{chapter*.4}
